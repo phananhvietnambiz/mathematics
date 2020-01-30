@@ -1,3 +1,1 @@
-* Cách 1: |a % b - b % a | , Math.abs(a % b - b % a)
-
-* Cách 2: g = (a, b) => b ? g(b, a % b) : a
+* CÃ¡ch 2: g = (a, b) => b ? g(b, a % b) : a
